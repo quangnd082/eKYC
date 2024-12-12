@@ -1,0 +1,7 @@
+torch
+matplotlib
+onnxruntime
+flask
+vietocr
+facenet_pytorch
+flask_session
